@@ -1,7 +1,7 @@
-export default {
+module.exports = {
     components: true,
     head: {
-        titleTemplate: "Mastering Nuxt: %s",
+        titleTemplate: "Nuxt: %s",
         htmlAttrs: {
             lang: "en"
         },
